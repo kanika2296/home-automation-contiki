@@ -1,5 +1,5 @@
 # Home Automation simualtion using Contiki
-Simulation of smart home automation system devices using contiki OS
+Simulation of smart home automation system devices using contiki OS __InstantContiki 2.7__
 
 The Home automation IoT network is created using Cooja, Contiki’s IoT simulator. It uses IoT protocols
 6lowpan from communicating over ipv6 and CoAP application layer protocols using which sensors share value
